@@ -1,4 +1,16 @@
 <p align="left"> 
+  <a href="http://twitter.com/yu_s1127">
+    <img height="20" src="https://img.shields.io/twitter/follow/yu_s1127?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="http://qiita.com/yu_s1127">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yu_s1127/posts.svg" />
+  </a>
+  <//qiita.com/yu_s1127">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yu_s1127/contributions.svg" />
+  </a>
+</p>
+  
+<p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-s1127&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yu-s1127&theme=onedark&show_icons=ture" />
 </p>
