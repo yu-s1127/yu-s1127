@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+yu-s1128;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+yu-s1127;Welcome+to+my+GitHub!" alt="Typing SVG" />
   
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=yu-s1127&color=58a6ff&style=flat-square" alt="Profile views" />
